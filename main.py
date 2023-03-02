@@ -25,7 +25,7 @@ print(Fore.YELLOW + 'Discord Token Bruteforcer - Made by 1mp0ss1bl3#6596 (Discor
 
 time.sleep(1)
 
-
+# 786739506618826753
 
 menu = input(f'{Fore.RED} Available commands: start/exit/help: ')
 if menu == 'exit':
