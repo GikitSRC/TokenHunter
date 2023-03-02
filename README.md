@@ -14,8 +14,8 @@ Bruteforces a user's Discord Token with their ID. This script will use Base64 to
 If any help is needed, you can type ``help`` into the start menu of the script.
 
 ## Showcase image(s)
-![Main Menu](https://github.com/ChainedTears/Shadow_Bruteforcer/raw/main/showcasing/showcase.png)
-![Bruteforcing](https://github.com/ChainedTears/Shadow_Bruteforcer/raw/main/showcasing/Screenshot%202022-10-13%208.44.42%20AM.png)
+![Main Menu](https://github.com/GikitSRC/Shadow_Bruteforcer/raw/main/showcasing/showcase.png)
+![Bruteforcing](https://github.com/GikitSRC/Shadow_Bruteforcer/raw/main/showcasing/Screenshot%202022-10-13%208.44.42%20AM.png)
 
 ## To-Do
 - [x] Checks if token is correct
