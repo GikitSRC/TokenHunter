@@ -1,5 +1,5 @@
 # Skyhax Discord Token Bruteforcer
-Bruteforces a user's Discord Token with their ID. This script will use Base64 to encode the first string of the victim's string with their ID, and bruteforce the rest. Chances are incredibly low, and the faster your computer is, the more chances of success there will be. Make sure to have a good internet connection while running this script, and have alot of data to spare! Successful output will be put in grab.txt (Will be created). This script is made for Educational Purposes only, illegal uses or abuse of this script will not be my responsibility.
+Bruteforces a user's Discord Token with their ID. This script will use Base64 to encode the first string of the victim's string with their ID, and bruteforce the rest. Chances are incredibly low, and the faster your computer is, the more chances of success there will be. Make sure to have a good internet connection while running this script, and have alot of data to spare! Successful output will be put in grab.txt (Will be created). This script is made for Educational Purposes only, illegal uses or abuse of this script will not be my responsibility. DO NOT RUN ON GITHUB CODESPACES/REPL!!! YOU WILL GET BANNED!!!<br>CPU Usage choice is coming soon!
 
 ### Data Usage:
 🚨🚨🚨 This script uses ALOT of data, so be warned. Average data usage: 20GB/day 🚨🚨🚨
