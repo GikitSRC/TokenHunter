@@ -6,3 +6,4 @@ string
 os
 colorama
 time
+discord
