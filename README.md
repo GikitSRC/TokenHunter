@@ -1,17 +1,17 @@
 # Skyhax Discord Token Bruteforcer
-Bruteforces a user's Discord Token with their ID. This script will use Base64 to encode the first string of the victim's string with their ID, and bruteforce the rest. Chances are incredibly low, and the faster your computer is, the more chances of success there will be. Make sure to have a good internet connection while running this script, and have alot of data to spare! Successful output will be put in grab.txt (Will be created). This script is made for Educational Purposes only, illegal uses or abuse of this script will not be my responsibility. DO NOT RUN ON GITHUB CODESPACES/REPL!!! YOU WILL GET BANNED!!!<br>CPU Usage choice is coming soon!
+The Skyhax Discord Token Bruteforcer is a script that attempts to bruteforce a user's Discord token using their ID. The script encodes the first part of the victim's token with their ID using Base64 and then tries different combinations for the remaining part. Please note that the chances of success are incredibly low, and the speed of your computer will affect the success rate. It is essential to have a stable internet connection and a significant amount of spare data while running this script. If the bruteforcing process is successful, the output will be saved in a file called ``grab.txt`` (which will be created).
 
+Important: This script is intended for educational purposes only. Any illegal or abusive use of this script is not the responsibility of the author. **Do not run this script on GitHub Codespaces or REPL, as it may result in a ban.**
 ### Data Usage:
-🚨🚨🚨 This script uses ALOT of data, so be warned. Average data usage: 20GB/day 🚨🚨🚨
+🚨🚨🚨 This script consumes a significant amount of data, so please be aware of this. On average, it uses approximately 20GB of data per day. 🚨🚨🚨
 
 ## How to use
-1. Clone the repo, and navigate to the folder where file is saved in your command line
+1. Clone the repository and navigate to the folder where the file is saved using your command line interface.
 2. Install Python on your computer [here](https://www.python.org)
-3. Install requirements by running the following command in CMD Prompt:
+3. Install the required dependencies by running the following command in your command prompt or terminal::
 ```pip install -r requirements.txt```
-4. Run the python script with ```python3 main.py```
-5. Follow instructions on the menu to and continue.
-If any help is needed, you can type ``help`` into the start menu of the script.
+4. Run the Python script using the following command: ```python3 main.py```
+5. Follow the instructions in the menu to proceed. If any help is needed, you can type ``help`` into the start menu of the script.
 
 ## Showcase image(s)
 ![Main Menu](https://github.com/GikitSRC/Shadow_Bruteforcer/raw/main/showcasing/showcase1.png)
@@ -20,6 +20,8 @@ If any help is needed, you can type ``help`` into the start menu of the script.
 ## To-Do
 - [x] Checks if token is correct
 - [x] User-Friendly Menu
-- [ ] Support server
+- [x] [Support server](https://discord.gg/kr9UbJpqtb)
+- [ ] Add support for proxy rotation to increase anonymity and avoid IP-based rate limits.
+- [ ] Improve error handling and provide informative error messages for better troubleshooting.
 
-### This script/hack is made for education purposes only. Any misuse or abuse of this script can get you in huge trouble, and it is not my responsibility for any mess you are in by using this script/hack. 
+### This script/hack is created solely for educational purposes. Any misuse or abuse of this script can lead to severe consequences, and I will not be held responsible for any trouble you encounter by executing this script.
